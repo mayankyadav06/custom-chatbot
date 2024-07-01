@@ -48,3 +48,5 @@ The `app.py` script sets up a Flask RESTful API to handle chat conversations. It
 The `bot-frontend` is a React application that provides a chat interface for the user. It uses Axios to send GET and POST requests to the Flask server. The user's messages and the server's responses are displayed in the chat interface, with auto-scrolling to the latest messages.
 
 Please refer to the comments in the code for more detailed explanations of each part.
+![image](https://github.com/mayankyadav06/custom-chatbot/assets/140626220/46b6b92a-43f1-4c6f-a85f-136127681157)
+
